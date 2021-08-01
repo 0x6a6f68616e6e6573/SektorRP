@@ -1,0 +1,30 @@
+{
+  "name": "sektorrp",
+  "version": "0.0.0",
+  "description": "GraphQL API with MongoDB (Typescript)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0x6a6f68616e6e6573/SektorRP.git"
+  },
+  "author": "jo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0x6a6f68616e6e6573/SektorRP/issues"
+  },
+  "homepage": "https://github.com/0x6a6f68616e6e6573/SektorRP#readme",
+  "dependencies": {
+    "apollo-server": "^3.1.1",
+    "graphql": "^15.5.1",
+    "mongoose": "^5.13.5",
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {
+    "@types/node": "^16.4.9",
+    "@types/node-fetch": "^2.5.12",
+    "dotenv": "^10.0.0",
+    "typescript": "^4.3.5"
+  }
+}
